@@ -1,0 +1,14 @@
+D:\Courses\Online Courses\Back-End Developer from Microsoft\Course_2 Intro to C#\Programs\GenerateCodeByCopilot\bin\Debug\net9.0\GenerateCodeByCopilot.exe
+D:\Courses\Online Courses\Back-End Developer from Microsoft\Course_2 Intro to C#\Programs\GenerateCodeByCopilot\bin\Debug\net9.0\GenerateCodeByCopilot.deps.json
+D:\Courses\Online Courses\Back-End Developer from Microsoft\Course_2 Intro to C#\Programs\GenerateCodeByCopilot\bin\Debug\net9.0\GenerateCodeByCopilot.runtimeconfig.json
+D:\Courses\Online Courses\Back-End Developer from Microsoft\Course_2 Intro to C#\Programs\GenerateCodeByCopilot\bin\Debug\net9.0\GenerateCodeByCopilot.dll
+D:\Courses\Online Courses\Back-End Developer from Microsoft\Course_2 Intro to C#\Programs\GenerateCodeByCopilot\bin\Debug\net9.0\GenerateCodeByCopilot.pdb
+D:\Courses\Online Courses\Back-End Developer from Microsoft\Course_2 Intro to C#\Programs\GenerateCodeByCopilot\obj\Debug\net9.0\GenerateCodeByCopilot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\Online Courses\Back-End Developer from Microsoft\Course_2 Intro to C#\Programs\GenerateCodeByCopilot\obj\Debug\net9.0\GenerateCodeByCopilot.AssemblyInfoInputs.cache
+D:\Courses\Online Courses\Back-End Developer from Microsoft\Course_2 Intro to C#\Programs\GenerateCodeByCopilot\obj\Debug\net9.0\GenerateCodeByCopilot.AssemblyInfo.cs
+D:\Courses\Online Courses\Back-End Developer from Microsoft\Course_2 Intro to C#\Programs\GenerateCodeByCopilot\obj\Debug\net9.0\GenerateCodeByCopilot.csproj.CoreCompileInputs.cache
+D:\Courses\Online Courses\Back-End Developer from Microsoft\Course_2 Intro to C#\Programs\GenerateCodeByCopilot\obj\Debug\net9.0\GenerateCodeByCopilot.dll
+D:\Courses\Online Courses\Back-End Developer from Microsoft\Course_2 Intro to C#\Programs\GenerateCodeByCopilot\obj\Debug\net9.0\refint\GenerateCodeByCopilot.dll
+D:\Courses\Online Courses\Back-End Developer from Microsoft\Course_2 Intro to C#\Programs\GenerateCodeByCopilot\obj\Debug\net9.0\GenerateCodeByCopilot.pdb
+D:\Courses\Online Courses\Back-End Developer from Microsoft\Course_2 Intro to C#\Programs\GenerateCodeByCopilot\obj\Debug\net9.0\GenerateCodeByCopilot.genruntimeconfig.cache
+D:\Courses\Online Courses\Back-End Developer from Microsoft\Course_2 Intro to C#\Programs\GenerateCodeByCopilot\obj\Debug\net9.0\ref\GenerateCodeByCopilot.dll
