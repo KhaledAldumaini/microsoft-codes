@@ -12,3 +12,4 @@ D:\Courses\Online Courses\Back-End Developer from Microsoft\Course_2 Intro to C#
 D:\Courses\Online Courses\Back-End Developer from Microsoft\Course_2 Intro to C#\Programs\GenerateCodeByCopilot\obj\Debug\net9.0\GenerateCodeByCopilot.pdb
 D:\Courses\Online Courses\Back-End Developer from Microsoft\Course_2 Intro to C#\Programs\GenerateCodeByCopilot\obj\Debug\net9.0\GenerateCodeByCopilot.genruntimeconfig.cache
 D:\Courses\Online Courses\Back-End Developer from Microsoft\Course_2 Intro to C#\Programs\GenerateCodeByCopilot\obj\Debug\net9.0\ref\GenerateCodeByCopilot.dll
+D:\Courses\Online Courses\Back-End Developer from Microsoft\Course_2 Intro to C#\Programs\GenerateCodeByCopilot\obj\Debug\net9.0\GenerateCodeByCopilot.sourcelink.json

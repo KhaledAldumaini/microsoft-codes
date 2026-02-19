@@ -1,0 +1,27 @@
+add
+Book A
+add
+Book B
+add
+Book C
+add
+Book D
+add
+Book E
+add
+Book F
+borrow
+Book A
+borrow
+Book B
+borrow
+Book C
+borrow
+Book D
+search
+Book A
+checkin
+Book A
+borrow
+Book D
+exit
